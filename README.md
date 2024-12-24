@@ -1,0 +1,1 @@
+CHANGE DIRECTORY FOR TXT FILES. YOU CAN FIND PATH VARIABLE IN "func.py" -> listed_files().
